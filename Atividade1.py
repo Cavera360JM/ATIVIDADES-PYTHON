@@ -1,0 +1,11 @@
+nome = input("Digite seu nome aqui: ")
+idade = input("Digite sua idade: ")
+cidade = input("Digite a cidade onde você vive: ")
+profissao = input("Digite sua profissão: ")
+hobby = input("Digite seu hobby: ")
+
+print(f"Seja Bem-Vindo {nome} ao nosso teste beta de Python!")
+print(f"Você tem atualmente {idade} anos.")
+print(f"Você mora atualmente na cidade {cidade}.")
+print(f"Sua profissão atual é {profissao}.")
+print(f"E seu hobby é {hobby}.")
